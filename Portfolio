@@ -1,1 +1,29 @@
+## **1️⃣ Airbnb Data Analysis**  
 
+### 📍 Problem Statement  
+Airbnb hosts struggle with **pricing strategies** and **seasonal demand fluctuations**. This project analyzes historical data to optimize **occupancy rates, pricing, and revenue**.  
+
+### 📊 Data Source  
+- **Source:** [Inside Airbnb](http://insideairbnb.com/get-the-data.html)  
+- **Datasets Used:** Listings, Reviews, Calendar (Cleaned & Processed).  
+
+### 🛠 Tools Used  
+- **Python** (Pandas, Seaborn, Matplotlib, FPDF)  
+- **SQL** (PostgreSQL for data aggregation)  
+- **Tableau** (Visual dashboards)  
+
+### 🔍 Key Findings  
+✔ **Peak Booking Seasons:** Demand is highest from **June - August** (summer months).  
+✔ **Superhost Impact:** Superhosts charge **20-30% higher rates** and still get more bookings.  
+✔ **Top Neighborhoods:** [List of profitable areas] based on occupancy and price.  
+
+### 📊 Visualizations  
+📌 Seasonal trends: ![Occupancy Trends](visualizations/seasonal_trends.png)  
+📌 Revenue by neighborhood: ![Revenue Analysis](visualizations/revenue_by_neighborhood.png)  
+
+### 📑 Business Recommendations  
+✅ **Dynamic Pricing:** Adjust prices based on seasonal trends.  
+✅ **Invest in Superhost Status:** Higher trust = More bookings.  
+✅ **Location Strategy:** Focus on high-revenue neighborhoods.  
+
+📎 **Full Report (PDF):** [Download Report](reports/Airbnb_Data_Analysis_Report.pdf)  
